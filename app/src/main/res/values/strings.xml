@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_oceans">The Pacific Ocean is the largest ocean on Earth.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="question_africa">The Sahara Desert is the largest desert in the world.</string>
+    <string name="question_americas">The Amazon River is the longest river in the Americas.</string>
+    <string name="question_asia">The Himalayas are the tallest mountain range in the world.</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="judgment_toast">Judgment: You used a cheat!</string>
+    <string name= "True">True</string>
+    <string name= "False">False</string>
+    <string name= "cheat">cheat</string>
+    <string name= "prev">prev</string>
+    <string name= "next">next</string>
+    <string name= "Question">Question</string>
+    <string name= "true_button">True</string>
+    <string name= "false_button">False</string>
+    <string name= "BackToQuiz">Back To Quiz</string>
+
+
+</resources>
